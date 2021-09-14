@@ -1,0 +1,2 @@
+T_*.uasset filter=lfs diff=lfs merge=lfs -text
+S_*.uasset filter=lfs diff=lfs merge=lfs -text
