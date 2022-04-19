@@ -1,4 +1,5 @@
 # HexWorldContent
+Content for the HexWorld plugin
 
 ## Install
 
